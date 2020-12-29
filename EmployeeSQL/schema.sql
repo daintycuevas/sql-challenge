@@ -6,7 +6,7 @@ CREATE TABLE employees(
 	,first_name VARCHAR
 	,last_name VARCHAR
 	,sex VARCHAR
-	,hire_date VARCHAR
+	,hire_date DATE
 );
 
 COPY employees
